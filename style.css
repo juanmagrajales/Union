@@ -1,0 +1,26 @@
+h4{
+    color:red;
+    background-color: rgb(24, 9, 12);
+}
+p{ 
+   color: brown;
+}
+h1{
+    color:coral
+}
+h3{
+    color: chocolate;
+}
+#color-negro{
+    color: rgb(248, 110, 110);
+}
+.viernes{
+    color: rgb(136, 73, 73);
+}
+body{
+    background-image: url(https://pressover.news/wp-content/uploads/2021/06/gow2-1024x576.jpg);
+}
+.autor{
+    color: rgb(241, 11, 11);
+    background-color: black;
+}
